@@ -1,0 +1,3 @@
+[submodule "androids"]
+	path = androids
+	url = https://github.com/xegang/androids.git
